@@ -1,0 +1,640 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(07.04.2025) (RFC) Update the Authorization specification for MCP servers #284 by localden",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:57:45Z",
+            "owner": "modelcontextprotocol",
+            "repo": "modelcontextprotocol",
+            "stars": 8944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(14.04.2025) MCP Security Checklist: A Security Guide for the AI Tool Ecosystem by slowmist",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-28T12:34:08Z",
+            "owner": "slowmist",
+            "repo": "MCP-Security-Checklist",
+            "stars": 835
+          }
+        }
+      ],
+      "title": "📕 Articles, X threads and Blog Posts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI-Infra-Guard by Tencent Zhuque Lab",
+          "description": "MCP Server Security Analysis Tool - a comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T02:23:40Z",
+            "owner": "Tencent",
+            "repo": "AI-Infra-Guard",
+            "stars": 4489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-scan by invariantlabs-ai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:13:56Z",
+            "owner": "snyk",
+            "repo": "agent-scan",
+            "stars": 2908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToolHive - making MCP servers easy and secure by StacklokLabs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T11:05:35Z",
+            "owner": "stacklok",
+            "repo": "toolhive",
+            "stars": 2008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Damn Vulnerable MCP Server by harishsg993010",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-08T00:14:14Z",
+            "owner": "harishsg993010",
+            "repo": "damn-vulnerable-MCP-server",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octocode",
+          "description": "AI-powered developer assistant that enables advanced research, analysis and discovery across GitHub ecosystem. Allow smart search of security patterns across repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:02:51Z",
+            "owner": "bgauryy",
+            "repo": "octocode",
+            "stars": 908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Security Checklist: A Security Guide for the AI Tool Ecosystem by SlowMist",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-28T12:34:08Z",
+            "owner": "slowmist",
+            "repo": "MCP-Security-Checklist",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "workers-mcp - Connect Cloudflare Workers with your MCP clients by Cloudflare",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-23T20:49:25Z",
+            "owner": "cloudflare",
+            "repo": "workers-mcp",
+            "stars": 644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP-Shield – Detect security issues in MCP servers by riseandignite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-26T05:50:35Z",
+            "owner": "riseandignite",
+            "repo": "mcp-shield",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Security Operations and Threat Intelligence MCP Server - Access Google's security products and services",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-03T14:54:02Z",
+            "owner": "google",
+            "repo": "mcp-security",
+            "stars": 517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Gateway - Acts as intermediary between LLMs and other MCP servers by lasso-security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-22T13:07:00Z",
+            "owner": "lasso-security",
+            "repo": "mcp-gateway",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Defender - Blocks malicious MCP traffic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T19:20:22Z",
+            "owner": "MCP-Defender",
+            "repo": "MCP-Defender",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-context-protector - Security wrapper for MCP servers by trailofbits",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T12:07:30Z",
+            "owner": "trailofbits",
+            "repo": "mcp-context-protector",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Tool Poisoning Experiments by invariantlabs-ai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-10T21:37:39Z",
+            "owner": "invariantlabs-ai",
+            "repo": "mcp-injection-experiments",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-injection-experiments by invariantlabs-ai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-10T21:37:39Z",
+            "owner": "invariantlabs-ai",
+            "repo": "mcp-injection-experiments",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Guardian - Manage your LLM's access to MCP servers by eqtylab",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-08T01:17:20Z",
+            "owner": "eqtylab",
+            "repo": "mcp-guardian",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secure MCP - Security auditing tool to detect MCP vulnerabilities and misconfigurations by makalin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-06-07T06:56:29Z",
+            "owner": "makalin",
+            "repo": "SecureMCP",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Watch - Vulnerability scanner for MCP servers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T03:20:20Z",
+            "owner": "kapilduraphe",
+            "repo": "mcp-watch",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Security MCP - Access AWS security tools by groovyBugify",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-25T19:54:54Z",
+            "owner": "groovyBugify",
+            "repo": "aws-security-mcp",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP-Dandan",
+          "description": "Desktop security tool for real-time monitoring, threat detection, and control of MCP tool invocations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T11:43:12Z",
+            "owner": "82ch",
+            "repo": "MCP-Dandan",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCPAuth: Gateway Authentication for Secure Enterprise MCP Integrations by Oide Brett",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-27T11:17:25Z",
+            "owner": "oidebrett",
+            "repo": "mcpauth",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Audit Extension - Audit and log all GitHub Copilot MCP tool calls in VSCode with ease",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-04T19:59:28Z",
+            "owner": "borisdan",
+            "repo": "mcp-audit-extension",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Ethical Hacking by cmpxchg16",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-16T04:54:47Z",
+            "owner": "cmpxchg16",
+            "repo": "mcp-ethical-hacking",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "🧑‍🚀 Tools and code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IDA-Pro-MCP by mrexodia",
+          "description": "MCP server for reverse engineering in IDA Pro, a tool for analyzing software and binary files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T14:11:11Z",
+            "owner": "mrexodia",
+            "repo": "ida-pro-mcp",
+            "stars": 11321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GhidraMCP by LaurieWired",
+          "description": "MCP server for automatic reverse engineering in Ghidra, a software reverse engineering platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-23T04:18:18Z",
+            "owner": "LaurieWired",
+            "repo": "GhidraMCP",
+            "stars": 9773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pomerium/pomerium",
+          "description": "Identity-aware proxy with native support for Zero Trust access, now including MCP support.",
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Example implementations:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "pomerium/mcp-app-demo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-06T17:05:29Z",
+                    "owner": "pomerium",
+                    "repo": "mcp-app-demo",
+                    "stars": 51
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pomerium/mcp-servers",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Go",
+                    "last_commit": "2026-07-13T20:33:22Z",
+                    "owner": "pomerium",
+                    "repo": "mcp-servers",
+                    "stars": 7
+                  }
+                }
+              ]
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:34:45Z",
+            "owner": "pomerium",
+            "repo": "pomerium",
+            "stars": 4953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burp Suite MCP by PortSwigger",
+          "description": "MCP integration for web security testing in Burp Suite, a security testing tool for web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T10:10:07Z",
+            "owner": "PortSwigger",
+            "repo": "mcp-server",
+            "stars": 1062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semgrep MCP Server",
+          "description": "MCP server for using Semgrep to scan code for vulnerabilities",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-10-28T22:32:31Z",
+            "owner": "semgrep",
+            "repo": "mcp",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BloodHound-MCP-AI by MorDavid",
+          "description": "MCP server integration for BloodHound, a tool for analyzing Active Directory domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-02T22:21:26Z",
+            "owner": "MorDavid",
+            "repo": "BloodHound-MCP-AI",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maigret MCP Server by BurtTheCoder",
+          "description": "MCP server for OSINT data collection with Maigret, a tool that gathers user info from various sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-27T03:36:32Z",
+            "owner": "w0h1v",
+            "repo": "mcp-maigret",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shodan MCP Server by BurtTheCoder",
+          "description": "MCP server for querying the Shodan API, which provides data on Internet-connected devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-31T18:08:46Z",
+            "owner": "w0h1v",
+            "repo": "mcp-shodan",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VirusTotal MCP Server by BurtTheCoder",
+          "description": "MCP server for querying the VirusTotal API, a service for analyzing files and URLs for viruses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-24T03:00:04Z",
+            "owner": "w0h1v",
+            "repo": "mcp-virustotal",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jadx MCP Plugin by mobilehackinglab",
+          "description": "Jadx plugin for MCP server access via HTTP, used for decompiling Android apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-04T20:08:59Z",
+            "owner": "mobilehackinglab",
+            "repo": "jadx-mcp-plugin",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TriageMCP by eversinc33",
+          "description": "MCP server for doing basic static triage of Portable Executable (PE) files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-01T05:21:33Z",
+            "owner": "eversinc33",
+            "repo": "TriageMCP",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoadRecon MCP by atomicchonk",
+          "description": "MCP server for Azure AD data analysis with ROADRecon, a tool for mapping Azure Active Directory environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-30T05:26:46Z",
+            "owner": "atomicchonk",
+            "repo": "roadrecon_mcp_server",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DNStwist MCP Server by BurtTheCoder",
+          "description": "MCP server for DNS fuzzing with dnstwist, a tool for detecting phishing and domain takeover threats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-03T06:57:46Z",
+            "owner": "w0h1v",
+            "repo": "mcp-dnstwist",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nuclei MCP Integration by addcontent",
+          "description": "Provides a standardized MCP interface for Nuclei, a fast and customizable vulnerabilty scanner, for performing scans and managing vulnerablity assessments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-04T11:23:07Z",
+            "owner": "addcontent",
+            "repo": "nuclei-mcp",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "binaryninja-mcp by MCPPhalanx",
+          "description": "MCP server for Binary Ninja, a binary analysis tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-13T03:16:11Z",
+            "owner": "MCPPhalanx",
+            "repo": "binaryninja-mcp",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Illumio MCP Server by alexgoller",
+          "description": "MCP server for interacting with Illumio Policy Compute Engine for Illumio workload management, label operations, traffic flow analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T08:23:35Z",
+            "owner": "alexgoller",
+            "repo": "illumio-mcp-server",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "urldna/mcp",
+          "description": "urlDNA MCP server for phishing detection and URL analysis through advanced contextual scanning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-10T16:15:11Z",
+            "owner": "urldna",
+            "repo": "mcp",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "💾 MCP Security Servers"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:42:28.090Z",
+    "original_repository": "Puliczek/awesome-mcp-security",
+    "original_repository_sha": "e49700a1732182af8ba915808f816d4eff48bf36",
+    "enhanced_repository": "enhansome/enhansome-mcp-security",
+    "enhanced_repository_description": null,
+    "title": "Awesome MCP Security with stars"
+  }
+}
