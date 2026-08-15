@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T15:57:45Z",
+            "last_commit": "2026-08-14T18:39:22Z",
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 8956
+            "stars": 8964
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2026-08-12T02:23:40Z",
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 4491
+            "stars": 4497
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:20:38Z",
+            "last_commit": "2026-08-14T13:19:23Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2913
+            "stars": 2914
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T11:01:50Z",
+            "last_commit": "2026-08-15T00:43:28Z",
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2011
+            "stars": 2015
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-12-08T00:14:14Z",
             "owner": "harishsg993010",
             "repo": "damn-vulnerable-MCP-server",
-            "stars": 1333
+            "stars": 1334
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-12T16:02:51Z",
             "owner": "bgauryy",
             "repo": "octocode",
-            "stars": 908
+            "stars": 910
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2026-08-09T14:11:11Z",
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 11346
+            "stars": 11359
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2025-06-23T04:18:18Z",
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9779
+            "stars": 9787
           }
         },
         {
@@ -423,10 +423,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T02:35:06Z",
+            "last_commit": "2026-08-15T02:08:22Z",
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 4954
+            "stars": 4956
           }
         },
         {
@@ -437,10 +437,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T15:03:42Z",
+            "last_commit": "2026-08-14T18:27:35Z",
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1067
+            "stars": 1068
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2025-06-02T22:21:26Z",
             "owner": "MorDavid",
             "repo": "BloodHound-MCP-AI",
-            "stars": 373
+            "stars": 374
           }
         },
         {
@@ -482,7 +482,7 @@
             "last_commit": "2026-01-27T03:36:32Z",
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 257
+            "stars": 258
           }
         },
         {
@@ -630,7 +630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:41:41.381Z",
+    "last_updated": "2026-08-15T11:16:29.251Z",
     "original_repository": "Puliczek/awesome-mcp-security",
     "original_repository_sha": "e49700a1732182af8ba915808f816d4eff48bf36",
     "enhanced_repository": "enhansome/enhansome-mcp-security",
