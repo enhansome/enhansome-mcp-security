@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T20:21:59Z",
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 8996
+            "stars": 8997
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-19T10:21:00Z",
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 4716
+            "stars": 4717
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-19T11:15:45Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2928
+            "stars": 2929
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 947349598,
             "language": "Go",
-            "last_commit": "2026-08-19T10:17:52Z",
+            "last_commit": "2026-08-19T12:17:14Z",
             "owner": "stacklok",
             "repo": "toolhive",
             "stars": 2025
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-17T13:34:03Z",
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 11438
+            "stars": 11440
           }
         },
         {
@@ -673,8 +673,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:21:05.944Z",
+    "last_updated": "2026-08-19T12:39:27.173Z",
     "original_repository": "Puliczek/awesome-mcp-security",
+    "original_repository_id": 962882667,
     "original_repository_sha": "e49700a1732182af8ba915808f816d4eff48bf36",
     "enhanced_repository": "enhansome/enhansome-mcp-security",
     "enhanced_repository_description": null,
