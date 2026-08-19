@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 862570523,
             "language": "TypeScript",
             "last_commit": "2026-08-17T20:21:59Z",
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 8987
+            "stars": 8996
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965174988,
             "language": null,
             "last_commit": "2025-04-28T12:34:08Z",
             "owner": "slowmist",
@@ -35,7 +37,7 @@
       "title": "📕 Articles, X threads and Blog Posts"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 908108028,
             "language": "Python",
-            "last_commit": "2026-08-18T10:43:42Z",
+            "last_commit": "2026-08-19T10:21:00Z",
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 4585
+            "stars": 4716
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 962024783,
             "language": "Python",
-            "last_commit": "2026-08-18T10:56:11Z",
+            "last_commit": "2026-08-19T11:15:45Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2921
+            "stars": 2928
           }
         },
         {
@@ -72,8 +76,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 947349598,
             "language": "Go",
-            "last_commit": "2026-08-18T09:06:39Z",
+            "last_commit": "2026-08-19T10:17:52Z",
             "owner": "stacklok",
             "repo": "toolhive",
             "stars": 2025
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 967232951,
             "language": "Python",
             "last_commit": "2025-12-08T00:14:14Z",
             "owner": "harishsg993010",
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 996813130,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T16:02:51Z",
+            "last_commit": "2026-08-18T15:18:42Z",
             "owner": "bgauryy",
             "repo": "octocode",
-            "stars": 914
+            "stars": 915
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965174988,
             "language": null,
             "last_commit": "2025-04-28T12:34:08Z",
             "owner": "slowmist",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 904965896,
             "language": "TypeScript",
             "last_commit": "2026-04-23T20:49:25Z",
             "owner": "cloudflare",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 966527378,
             "language": "TypeScript",
             "last_commit": "2025-04-26T05:50:35Z",
             "owner": "riseandignite",
@@ -156,11 +166,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 959334960,
             "language": "Python",
             "last_commit": "2026-08-13T18:33:04Z",
             "owner": "google",
             "repo": "mcp-security",
-            "stars": 518
+            "stars": 519
           }
         },
         {
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965970978,
             "language": "Python",
             "last_commit": "2026-01-22T13:07:00Z",
             "owner": "lasso-security",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 992021228,
             "language": "TypeScript",
             "last_commit": "2026-06-05T19:20:22Z",
             "owner": "MCP-Defender",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 974354158,
             "language": "Python",
             "last_commit": "2026-04-14T12:07:30Z",
             "owner": "trailofbits",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 961442801,
             "language": "Python",
             "last_commit": "2025-04-10T21:37:39Z",
             "owner": "invariantlabs-ai",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 961442801,
             "language": "Python",
             "last_commit": "2025-04-10T21:37:39Z",
             "owner": "invariantlabs-ai",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 926222936,
             "language": "Rust",
             "last_commit": "2025-08-08T01:17:20Z",
             "owner": "eqtylab",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 997553040,
             "language": "Go",
             "last_commit": "2025-06-07T06:56:29Z",
             "owner": "makalin",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 992757570,
             "language": "TypeScript",
             "last_commit": "2026-07-20T03:20:20Z",
             "owner": "kapilduraphe",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 971279713,
             "language": "Python",
             "last_commit": "2025-07-25T19:54:54Z",
             "owner": "groovyBugify",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1093228343,
             "language": "Python",
             "last_commit": "2026-08-10T11:43:12Z",
             "owner": "82ch",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 968534256,
             "language": "Go",
             "last_commit": "2026-05-27T11:17:25Z",
             "owner": "oidebrett",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1011265791,
             "language": "TypeScript",
             "last_commit": "2026-07-04T19:59:28Z",
             "owner": "borisdan",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 963493828,
             "language": "Python",
             "last_commit": "2025-09-16T04:54:47Z",
             "owner": "cmpxchg16",
@@ -349,7 +373,7 @@
       "title": "🧑‍🚀 Tools and code"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -358,11 +382,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 954963562,
             "language": "Python",
             "last_commit": "2026-08-17T13:34:03Z",
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 11416
+            "stars": 11438
           }
         },
         {
@@ -372,11 +397,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 953335676,
             "language": "Java",
             "last_commit": "2025-06-23T04:18:18Z",
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9816
+            "stars": 9822
           }
         },
         {
@@ -396,6 +422,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 988631357,
                     "language": "TypeScript",
                     "last_commit": "2026-08-06T17:05:29Z",
                     "owner": "pomerium",
@@ -410,6 +437,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 997644429,
                     "language": "Go",
                     "last_commit": "2026-07-13T20:33:22Z",
                     "owner": "pomerium",
@@ -422,11 +450,12 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 163722349,
             "language": "Go",
-            "last_commit": "2026-08-18T02:09:07Z",
+            "last_commit": "2026-08-19T06:01:47Z",
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 4962
+            "stars": 4963
           }
         },
         {
@@ -436,11 +465,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 959200834,
             "language": "Kotlin",
             "last_commit": "2026-08-14T18:27:35Z",
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1076
+            "stars": 1082
           }
         },
         {
@@ -450,6 +480,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 950213855,
             "language": "Python",
             "last_commit": "2025-10-28T22:32:31Z",
             "owner": "semgrep",
@@ -464,6 +495,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 960315363,
             "language": "Python",
             "last_commit": "2025-06-02T22:21:26Z",
             "owner": "MorDavid",
@@ -478,6 +510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 902701610,
             "language": "JavaScript",
             "last_commit": "2026-01-27T03:36:32Z",
             "owner": "w0h1v",
@@ -492,6 +525,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 902513820,
             "language": "TypeScript",
             "last_commit": "2026-03-31T18:08:46Z",
             "owner": "w0h1v",
@@ -506,11 +540,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 902629770,
             "language": "TypeScript",
             "last_commit": "2026-05-24T03:00:04Z",
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
-            "stars": 145
+            "stars": 146
           }
         },
         {
@@ -520,6 +555,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 961137130,
             "language": "Java",
             "last_commit": "2026-02-04T20:08:59Z",
             "owner": "mobilehackinglab",
@@ -534,6 +570,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 985391624,
             "language": "Python",
             "last_commit": "2025-12-01T05:21:33Z",
             "owner": "eversinc33",
@@ -548,6 +585,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 956870410,
             "language": "Python",
             "last_commit": "2025-03-30T05:26:46Z",
             "owner": "atomicchonk",
@@ -562,6 +600,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 905970538,
             "language": "JavaScript",
             "last_commit": "2025-03-03T06:57:46Z",
             "owner": "w0h1v",
@@ -576,6 +615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 944585837,
             "language": "Go",
             "last_commit": "2025-08-04T11:23:07Z",
             "owner": "addcontent",
@@ -590,6 +630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 956439525,
             "language": "Python",
             "last_commit": "2025-05-13T03:16:11Z",
             "owner": "MCPPhalanx",
@@ -604,6 +645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 899482347,
             "language": "Python",
             "last_commit": "2026-08-03T08:23:35Z",
             "owner": "alexgoller",
@@ -618,6 +660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1006967237,
             "language": "Python",
             "last_commit": "2026-05-10T16:15:11Z",
             "owner": "urldna",
@@ -630,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:21:14.875Z",
+    "last_updated": "2026-08-19T11:21:05.944Z",
     "original_repository": "Puliczek/awesome-mcp-security",
     "original_repository_sha": "e49700a1732182af8ba915808f816d4eff48bf36",
     "enhanced_repository": "enhansome/enhansome-mcp-security",
