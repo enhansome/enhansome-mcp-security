@@ -12,10 +12,10 @@
             "archived": false,
             "id": 862570523,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:21:59Z",
+            "last_commit": "2026-08-21T10:34:18Z",
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 9003
+            "stars": 9015
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 908108028,
             "language": "Python",
-            "last_commit": "2026-08-19T10:21:00Z",
+            "last_commit": "2026-08-21T09:38:00Z",
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 4749
+            "stars": 5181
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 962024783,
             "language": "Python",
-            "last_commit": "2026-08-20T11:22:40Z",
+            "last_commit": "2026-08-21T10:24:38Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2931
+            "stars": 2933
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 947349598,
             "language": "Go",
-            "last_commit": "2026-08-20T10:28:58Z",
+            "last_commit": "2026-08-21T10:26:06Z",
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2027
+            "stars": 2030
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-04-23T20:49:25Z",
             "owner": "cloudflare",
             "repo": "workers-mcp",
-            "stars": 645
+            "stars": 646
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-17T13:34:03Z",
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 11456
+            "stars": 11475
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2025-06-23T04:18:18Z",
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9833
+            "stars": 9841
           }
         },
         {
@@ -452,10 +452,10 @@
             "archived": false,
             "id": 163722349,
             "language": "Go",
-            "last_commit": "2026-08-20T02:10:14Z",
+            "last_commit": "2026-08-21T02:14:30Z",
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 4965
+            "stars": 4969
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-08-14T18:27:35Z",
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1089
+            "stars": 1092
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2025-10-28T22:32:31Z",
             "owner": "semgrep",
             "repo": "mcp",
-            "stars": 683
+            "stars": 684
           }
         },
         {
@@ -673,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:22:44.647Z",
+    "last_updated": "2026-08-21T11:21:22.593Z",
     "original_repository": "Puliczek/awesome-mcp-security",
     "original_repository_id": 962882667,
     "original_repository_sha": "e49700a1732182af8ba915808f816d4eff48bf36",
