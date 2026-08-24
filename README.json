@@ -12,10 +12,10 @@
             "archived": false,
             "id": 862570523,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T09:06:38Z",
+            "last_commit": "2026-08-24T02:08:18Z",
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 9030
+            "stars": 9039
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-04-28T12:34:08Z",
             "owner": "slowmist",
             "repo": "MCP-Security-Checklist",
-            "stars": 835
+            "stars": 836
           }
         }
       ],
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 908108028,
             "language": "Python",
-            "last_commit": "2026-08-23T05:28:57Z",
+            "last_commit": "2026-08-24T10:45:30Z",
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 5642
+            "stars": 5695
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 962024783,
             "language": "Python",
-            "last_commit": "2026-08-21T20:21:43Z",
+            "last_commit": "2026-08-24T11:00:28Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2948
+            "stars": 2951
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 947349598,
             "language": "Go",
-            "last_commit": "2026-08-23T01:56:53Z",
+            "last_commit": "2026-08-24T09:41:04Z",
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2034
+            "stars": 2035
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2025-12-08T00:14:14Z",
             "owner": "harishsg993010",
             "repo": "damn-vulnerable-MCP-server",
-            "stars": 1335
+            "stars": 1337
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-18T15:18:42Z",
             "owner": "bgauryy",
             "repo": "octocode",
-            "stars": 919
+            "stars": 920
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2025-04-28T12:34:08Z",
             "owner": "slowmist",
             "repo": "MCP-Security-Checklist",
-            "stars": 835
+            "stars": 836
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2025-04-26T05:50:35Z",
             "owner": "riseandignite",
             "repo": "mcp-shield",
-            "stars": 555
+            "stars": 554
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-17T13:34:03Z",
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 11505
+            "stars": 11536
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2025-06-23T04:18:18Z",
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9841
+            "stars": 9850
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2026-08-21T20:02:03Z",
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 4970
+            "stars": 4972
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-08-14T18:27:35Z",
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1097
+            "stars": 1100
           }
         },
         {
@@ -545,7 +545,7 @@
             "last_commit": "2026-05-24T03:00:04Z",
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -673,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:17:10.849Z",
+    "last_updated": "2026-08-24T11:23:43.479Z",
     "original_repository": "Puliczek/awesome-mcp-security",
     "original_repository_id": 962882667,
     "original_repository_sha": "e49700a1732182af8ba915808f816d4eff48bf36",
