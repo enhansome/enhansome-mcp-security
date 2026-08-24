@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T02:08:18Z",
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 9039
+            "stars": 9040
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-24T10:45:30Z",
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 5695
+            "stars": 5722
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 962024783,
             "language": "Python",
-            "last_commit": "2026-08-24T11:00:28Z",
+            "last_commit": "2026-08-24T14:11:28Z",
             "owner": "snyk",
             "repo": "agent-scan",
             "stars": 2951
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-17T13:34:03Z",
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 11536
+            "stars": 11542
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2025-06-23T04:18:18Z",
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9850
+            "stars": 9852
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-08-14T18:27:35Z",
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1100
+            "stars": 1101
           }
         },
         {
@@ -670,10 +670,52 @@
         }
       ],
       "title": "💾 MCP Security Servers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Cybersecurity Agentic AI",
+          "description": "Collection of resources on using AI agents for security use cases",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 988698008,
+            "language": "Shell",
+            "last_commit": "2026-06-28T16:28:55Z",
+            "owner": "raphabot",
+            "repo": "awesome-cybersecurity-agentic-ai",
+            "stars": 538
+          }
+        }
+      ],
+      "title": "💻 Other Useful Resources"
+    },
+    {
+      "description": "👍🎉 First off, thanks for taking the time to contribute! 🎉👍\nThanks! 🦄",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Please read and follow our contributing guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 962882667,
+            "language": null,
+            "last_commit": "2026-03-03T20:29:51Z",
+            "owner": "Puliczek",
+            "repo": "awesome-mcp-security",
+            "stars": 733
+          }
+        }
+      ],
+      "title": "😎 Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:23:43.479Z",
+    "last_updated": "2026-08-24T14:18:18.578Z",
     "original_repository": "Puliczek/awesome-mcp-security",
     "original_repository_id": 962882667,
     "original_repository_sha": "e49700a1732182af8ba915808f816d4eff48bf36",
