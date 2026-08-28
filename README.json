@@ -12,11 +12,12 @@
             "archived": false,
             "id": 862570523,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T03:22:19Z",
+            "last_commit": "2026-08-28T02:41:38Z",
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 9066
-          }
+            "stars": 9072
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "slowmist",
             "repo": "MCP-Security-Checklist",
             "stars": 836
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         }
       ],
       "title": "📕 Articles, X threads and Blog Posts"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 908108028,
             "language": "Python",
-            "last_commit": "2026-08-27T07:03:30Z",
+            "last_commit": "2026-08-28T07:17:23Z",
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 6009
-          }
+            "stars": 6036
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 962024783,
             "language": "Python",
-            "last_commit": "2026-08-27T13:03:42Z",
+            "last_commit": "2026-08-28T20:08:09Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2964
-          }
+            "stars": 2970
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 947349598,
             "language": "Go",
-            "last_commit": "2026-08-27T17:04:17Z",
+            "last_commit": "2026-08-28T20:28:37Z",
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2048
-          }
+            "stars": 2053
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "harishsg993010",
             "repo": "damn-vulnerable-MCP-server",
             "stars": 1341
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "bgauryy",
             "repo": "octocode",
             "stars": 920
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "slowmist",
             "repo": "MCP-Security-Checklist",
             "stars": 836
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "cloudflare",
             "repo": "workers-mcp",
             "stars": 646
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "riseandignite",
             "repo": "mcp-shield",
             "stars": 554
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -168,11 +178,12 @@
             "archived": false,
             "id": 959334960,
             "language": "Python",
-            "last_commit": "2026-08-27T19:35:45Z",
+            "last_commit": "2026-08-28T21:18:22Z",
             "owner": "google",
             "repo": "mcp-security",
             "stars": 520
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "lasso-security",
             "repo": "mcp-gateway",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "MCP-Defender",
             "repo": "MCP-Defender",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "trailofbits",
             "repo": "mcp-context-protector",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "invariantlabs-ai",
             "repo": "mcp-injection-experiments",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "invariantlabs-ai",
             "repo": "mcp-injection-experiments",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "eqtylab",
             "repo": "mcp-guardian",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "makalin",
             "repo": "SecureMCP",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "kapilduraphe",
             "repo": "mcp-watch",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "groovyBugify",
             "repo": "aws-security-mcp",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "82ch",
             "repo": "MCP-Dandan",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "oidebrett",
             "repo": "mcpauth",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "borisdan",
             "repo": "mcp-audit-extension",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "cmpxchg16",
             "repo": "mcp-ethical-hacking",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         }
       ],
       "title": "🧑‍🚀 Tools and code"
@@ -384,11 +408,12 @@
             "archived": false,
             "id": 954963562,
             "language": "Python",
-            "last_commit": "2026-08-27T16:40:26Z",
+            "last_commit": "2026-08-28T18:08:44Z",
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 11638
-          }
+            "stars": 11662
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -402,8 +427,9 @@
             "last_commit": "2025-06-23T04:18:18Z",
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9874
-          }
+            "stars": 9880
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -428,7 +454,8 @@
                     "owner": "pomerium",
                     "repo": "mcp-app-demo",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:18:52.756Z"
                 },
                 {
                   "node_type": "item",
@@ -443,7 +470,8 @@
                     "owner": "pomerium",
                     "repo": "mcp-servers",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:18:52.756Z"
                 }
               ]
             }
@@ -452,11 +480,12 @@
             "archived": false,
             "id": 163722349,
             "language": "Go",
-            "last_commit": "2026-08-27T16:34:36Z",
+            "last_commit": "2026-08-28T19:24:17Z",
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 4979
-          }
+            "stars": 4980
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -467,11 +496,12 @@
             "archived": false,
             "id": 959200834,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T18:27:35Z",
+            "last_commit": "2026-08-28T18:24:39Z",
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1112
-          }
+            "stars": 1114
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -486,7 +516,8 @@
             "owner": "semgrep",
             "repo": "mcp",
             "stars": 684
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -501,7 +532,8 @@
             "owner": "MorDavid",
             "repo": "BloodHound-MCP-AI",
             "stars": 375
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -516,7 +548,8 @@
             "owner": "w0h1v",
             "repo": "mcp-maigret",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -530,8 +563,9 @@
             "last_commit": "2026-03-31T18:08:46Z",
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 158
-          }
+            "stars": 159
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -546,7 +580,8 @@
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -561,7 +596,8 @@
             "owner": "mobilehackinglab",
             "repo": "jadx-mcp-plugin",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -576,7 +612,8 @@
             "owner": "eversinc33",
             "repo": "TriageMCP",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -591,7 +628,8 @@
             "owner": "atomicchonk",
             "repo": "roadrecon_mcp_server",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -606,7 +644,8 @@
             "owner": "w0h1v",
             "repo": "mcp-dnstwist",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -621,7 +660,8 @@
             "owner": "addcontent",
             "repo": "nuclei-mcp",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -636,7 +676,8 @@
             "owner": "MCPPhalanx",
             "repo": "binaryninja-mcp",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -651,7 +692,8 @@
             "owner": "alexgoller",
             "repo": "illumio-mcp-server",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         },
         {
           "node_type": "item",
@@ -666,7 +708,8 @@
             "owner": "urldna",
             "repo": "mcp",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         }
       ],
       "title": "💾 MCP Security Servers"
@@ -687,7 +730,8 @@
             "owner": "raphabot",
             "repo": "awesome-cybersecurity-agentic-ai",
             "stars": 539
-          }
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         }
       ],
       "title": "💻 Other Useful Resources"
@@ -707,15 +751,16 @@
             "last_commit": "2026-03-03T20:29:51Z",
             "owner": "Puliczek",
             "repo": "awesome-mcp-security",
-            "stars": 733
-          }
+            "stars": 732
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
         }
       ],
       "title": "😎 Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:53:29.881Z",
+    "last_updated": "2026-08-28T21:18:52.756Z",
     "original_repository_info": {
       "archived": false,
       "id": 962882667,
@@ -723,7 +768,7 @@
       "last_commit": "2026-03-03T20:29:51Z",
       "owner": "Puliczek",
       "repo": "awesome-mcp-security",
-      "stars": 733
+      "stars": 732
     },
     "original_repository_sha": "e49700a1732182af8ba915808f816d4eff48bf36",
     "enhanced_repository": "enhansome/enhansome-mcp-security",
