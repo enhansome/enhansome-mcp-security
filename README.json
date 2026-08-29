@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Specification and documentation for the Model Context Protocol",
+            "homepage": "https://modelcontextprotocol.io",
             "id": 862570523,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T02:41:38Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:24:44Z",
+            "open_issues": 141,
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 9072
+            "stars": 9073,
+            "topics": [
+              "docs",
+              "mcp",
+              "specification",
+              "standard"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems.",
+            "homepage": null,
             "id": 965174988,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-04-28T12:34:08Z",
+            "open_issues": 9,
             "owner": "slowmist",
             "repo": "MCP-Security-Checklist",
-            "stars": 836
+            "stars": 836,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         }
@@ -48,12 +63,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+            "homepage": "https://tencent.github.io/AI-Infra-Guard/",
             "id": 908108028,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:17:23Z",
+            "open_issues": 29,
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 6036
+            "stars": 6039,
+            "topics": [
+              "agent",
+              "agent-security",
+              "ai-infra",
+              "ai-red-teaming",
+              "ai-safety",
+              "ai-security",
+              "llm",
+              "llm-evaluation",
+              "llm-jailbreak",
+              "llm-security",
+              "mcp-scan",
+              "openclaw-security",
+              "prompt-injection",
+              "prompt-security",
+              "scanner",
+              "security",
+              "security-tools",
+              "skill-scanner",
+              "skills-security",
+              "vulnerability"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -64,12 +105,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security scanner for AI agents, MCP servers and agent skills.",
+            "homepage": null,
             "id": 962024783,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:08:09Z",
+            "open_issues": 8,
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2970
+            "stars": 2971,
+            "topics": [
+              "agent",
+              "ai",
+              "mcp",
+              "modelcontextprotocol",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -80,12 +132,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
+            "homepage": "https://stacklok.com/download/",
             "id": 947349598,
             "language": "Go",
-            "last_commit": "2026-08-28T20:28:37Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:50:43Z",
+            "open_issues": 376,
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2053
+            "stars": 2054,
+            "topics": [
+              "ai",
+              "ai-security",
+              "aicodeassistant",
+              "golang",
+              "kubernetes",
+              "mcp",
+              "mcp-security",
+              "mcp-servers",
+              "mcp-tools",
+              "model-context-protocol",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -96,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Damn Vulnerable MCP Server",
+            "homepage": null,
             "id": 967232951,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-08T00:14:14Z",
+            "open_issues": 22,
             "owner": "harishsg993010",
             "repo": "damn-vulnerable-MCP-server",
-            "stars": 1341
+            "stars": 1341,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -112,12 +186,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI  ",
+            "homepage": "https://octocode.ai/",
             "id": 996813130,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T19:36:22Z",
+            "open_issues": 3,
             "owner": "bgauryy",
             "repo": "octocode",
-            "stars": 920
+            "stars": 920,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-agents",
+              "ai-tools",
+              "claude-ai",
+              "code-intelligence",
+              "code-search",
+              "context",
+              "cursor",
+              "cursor-ai",
+              "development",
+              "github",
+              "github-api",
+              "llm",
+              "mcp",
+              "model-context-protocol",
+              "modelcontextprotocol",
+              "octocode",
+              "semantic-search",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -128,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems.",
+            "homepage": null,
             "id": 965174988,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-04-28T12:34:08Z",
+            "open_issues": 9,
             "owner": "slowmist",
             "repo": "MCP-Security-Checklist",
-            "stars": 836
+            "stars": 836,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -144,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Talk to a Cloudflare Worker from Claude Desktop!",
+            "homepage": "https://www.npmjs.com/package/workers-mcp",
             "id": 904965896,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-23T20:49:25Z",
+            "open_issues": 23,
             "owner": "cloudflare",
             "repo": "workers-mcp",
-            "stars": 646
+            "stars": 646,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -160,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security scanner for MCP servers",
+            "homepage": null,
             "id": 966527378,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-26T05:50:35Z",
+            "open_issues": 7,
             "owner": "riseandignite",
             "repo": "mcp-shield",
-            "stars": 554
+            "stars": 554,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -176,12 +291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 959334960,
             "language": "Python",
-            "last_commit": "2026-08-28T21:18:22Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:38:40Z",
+            "open_issues": 91,
             "owner": "google",
             "repo": "mcp-security",
-            "stars": 520
+            "stars": 520,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -192,12 +312,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.",
+            "homepage": "https://www.lasso.security/",
             "id": 965970978,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-22T13:07:00Z",
+            "open_issues": 12,
             "owner": "lasso-security",
             "repo": "mcp-gateway",
-            "stars": 385
+            "stars": 385,
+            "topics": [
+              "agent",
+              "agent-security",
+              "gateway",
+              "gen-ai",
+              "genai",
+              "genai-security",
+              "generative-ai",
+              "mcp",
+              "mcp-client",
+              "mcp-security",
+              "mcp-server",
+              "proxy",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -208,12 +347,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop app that automatically scans and blocks malicious MCP traffic in AI apps like Cursor, Claude, VS Code and Windsurf.",
+            "homepage": "https://mcpdefender.com",
             "id": 992021228,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-05T19:20:22Z",
+            "open_issues": 5,
             "owner": "MCP-Defender",
             "repo": "MCP-Defender",
-            "stars": 257
+            "stars": 257,
+            "topics": [
+              "ai-tools",
+              "mcp",
+              "mcp-client",
+              "mcp-client-security",
+              "mcp-security",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -224,12 +377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP security wrapper",
+            "homepage": null,
             "id": 974354158,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-14T12:07:30Z",
+            "open_issues": 14,
             "owner": "trailofbits",
             "repo": "mcp-context-protector",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -240,12 +398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code snippets to reproduce MCP tool poisoning attacks.",
+            "homepage": null,
             "id": 961442801,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-10T21:37:39Z",
+            "open_issues": 3,
             "owner": "invariantlabs-ai",
             "repo": "mcp-injection-experiments",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -256,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code snippets to reproduce MCP tool poisoning attacks.",
+            "homepage": null,
             "id": 961442801,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-10T21:37:39Z",
+            "open_issues": 3,
             "owner": "invariantlabs-ai",
             "repo": "mcp-injection-experiments",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -272,12 +440,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage / Proxy / Secure your MCP Servers",
+            "homepage": "https://mcp-guardian.org/",
             "id": 926222936,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-08T01:17:20Z",
+            "open_issues": 15,
             "owner": "eqtylab",
             "repo": "mcp-guardian",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "agentic-ai",
+              "claude-desktop",
+              "llm-tools",
+              "mcp",
+              "model-context-protocol"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -288,12 +467,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SecureMCP is a security auditing tool designed to detect vulnerabilities and misconfigurations in applications using the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction). It proactively identifies threats like OAuth token leakage, prompt injection vulnerabilities, rogue MCP servers, and tool poisoning attacks.",
+            "homepage": null,
             "id": 997553040,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-06-07T06:56:29Z",
+            "open_issues": 3,
             "owner": "makalin",
             "repo": "SecureMCP",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "ai-security",
+              "cli-tool",
+              "cli-tools",
+              "golang",
+              "llm-security",
+              "mcp",
+              "oauth",
+              "prompt-injection",
+              "security-scanner"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -304,12 +498,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive security scanner for Model Context Protocol (MCP) servers that detects vulnerabilities and security issues in your MCP server implementations.",
+            "homepage": null,
             "id": 992757570,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-20T03:20:20Z",
+            "open_issues": 13,
             "owner": "kapilduraphe",
             "repo": "mcp-watch",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "agentic-ai",
+              "anthropic",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -320,12 +523,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Model Context Protocol server that connects AI assistants like Claude to AWS security services, allowing them to autonomously query, inspect, and analyze AWS infrastructure for security issues and misconfigurations.",
+            "homepage": null,
             "id": 971279713,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-25T19:54:54Z",
+            "open_issues": 1,
             "owner": "groovyBugify",
             "repo": "aws-security-mcp",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "aws",
+              "cloud-security",
+              "llm",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -336,12 +549,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP Security Solution for Agentic AI — real-time proxying, behavior analysis, and malicious tool detection",
+            "homepage": "https://mcp-dandan.netlify.app/",
             "id": 1093228343,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T11:43:12Z",
+            "open_issues": 0,
             "owner": "82ch",
             "repo": "MCP-Dandan",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "ai-security",
+              "ai-security-tool",
+              "ai-tools",
+              "awesome-lists",
+              "mcp",
+              "mcp-gateway",
+              "mcp-guard",
+              "mcp-host",
+              "mcp-security",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "monitoring"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -352,12 +584,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP Gateway for external Authentication and Authorization",
+            "homepage": null,
             "id": 968534256,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-27T11:17:25Z",
+            "open_issues": 1,
             "owner": "oidebrett",
             "repo": "mcpauth",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -368,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audit and log all GitHub Copilot MCP tool calls in VSCode with ease.",
+            "homepage": "https://audit.agentity.com",
             "id": 1011265791,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-04T19:59:28Z",
+            "open_issues": 0,
             "owner": "borisdan",
             "repo": "mcp-audit-extension",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -384,12 +626,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP Ethical Hacking Security sample for educational",
+            "homepage": null,
             "id": 963493828,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-16T04:54:47Z",
+            "open_issues": 2,
             "owner": "cmpxchg16",
             "repo": "mcp-ethical-hacking",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "ai",
+              "genai",
+              "mcp",
+              "mcp-server",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         }
@@ -406,12 +659,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
+            "homepage": "https://plugins.hex-rays.com/mrexodia/ida-pro-mcp",
             "id": 954963562,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:08:44Z",
+            "open_issues": 45,
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 11662
+            "stars": 11670,
+            "topics": [
+              "ai",
+              "aiagent",
+              "binary-analysis",
+              "ida-plugin",
+              "ida-pro",
+              "mcp",
+              "mcp-server",
+              "modelcontextprotocol",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -422,12 +690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP Server for Ghidra",
+            "homepage": null,
             "id": 953335676,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-23T04:18:18Z",
+            "open_issues": 82,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9880
+            "stars": 9882,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -448,12 +721,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Demo application showcasing how to build and secure MCP servers and clients with Pomerium using contextual access policies.",
+                    "homepage": null,
                     "id": 988631357,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-06T17:05:29Z",
+                    "open_issues": 13,
                     "owner": "pomerium",
                     "repo": "mcp-app-demo",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": [
+                      "agentic-ai",
+                      "mcp",
+                      "zerotrust"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:18:52.756Z"
                 },
@@ -464,12 +746,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 997644429,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-13T20:33:22Z",
+                    "open_issues": 2,
                     "owner": "pomerium",
                     "repo": "mcp-servers",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:18:52.756Z"
                 }
@@ -478,12 +765,29 @@
           ],
           "repo_info": {
             "archived": false,
+            "description": "Pomerium is an identity and context-aware access proxy.",
+            "homepage": "https://www.pomerium.com",
             "id": 163722349,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:24:17Z",
+            "open_issues": 154,
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 4980
+            "stars": 4980,
+            "topics": [
+              "aigateway",
+              "beyondcorp",
+              "gateway",
+              "go",
+              "iam",
+              "identity",
+              "identity-aware-proxy",
+              "pomerium",
+              "reverse-proxy",
+              "vpn",
+              "zero-trust"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -494,12 +798,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP Server for Burp",
+            "homepage": null,
             "id": 959200834,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T18:24:39Z",
+            "open_issues": 52,
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1114
+            "stars": 1114,
+            "topics": [
+              "extension"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -510,12 +821,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A MCP server for using Semgrep to scan code for security vulnerabilities.",
+            "homepage": "https://mcp.semgrep.ai",
             "id": 950213855,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-28T22:32:31Z",
+            "open_issues": 28,
             "owner": "semgrep",
             "repo": "mcp",
-            "stars": 684
+            "stars": 684,
+            "topics": [
+              "mcp",
+              "semgrep"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -526,12 +845,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BloodHound-MCP-AI is integration that connects BloodHound with AI through Model Context Protocol, allowing security professionals to analyze Active Directory attack paths using natural language instead of complex Cypher queries.",
+            "homepage": "https://www.MORDAVID.com",
             "id": 960315363,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-02T22:21:26Z",
+            "open_issues": 0,
             "owner": "MorDavid",
             "repo": "BloodHound-MCP-AI",
-            "stars": 375
+            "stars": 375,
+            "topics": [
+              "ai",
+              "bloodhound",
+              "bloodhoundad",
+              "cypher-query-language",
+              "mcp",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -542,12 +873,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for maigret, a powerful OSINT tool that collects user account information from various public sources. ",
+            "homepage": null,
             "id": 902701610,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-27T03:36:32Z",
+            "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 259
+            "stars": 259,
+            "topics": [
+              "javascript",
+              "maigret",
+              "mcp",
+              "osint",
+              "social-media",
+              "username-search"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -558,12 +901,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for Shodan — search internet-connected devices, IP reconnaissance, DNS lookups, and CVE/CPE vulnerability intelligence. Works with Claude Code, Codex, Gemini CLI, and Claude Desktop.",
+            "homepage": "https://registry.modelcontextprotocol.io",
             "id": 902513820,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-31T18:08:46Z",
+            "open_issues": 5,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "ai-tools",
+              "claude",
+              "cpe",
+              "cve",
+              "cybersecurity",
+              "dns",
+              "ip-lookup",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "network-security",
+              "osint",
+              "reconnaissance",
+              "security",
+              "shodan",
+              "shodan-api",
+              "threat-intelligence",
+              "typescript",
+              "vulnerability-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -574,12 +942,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for VirusTotal API — analyze URLs, files, IPs, and domains with comprehensive security reports, relationship analysis, and pagination support.",
+            "homepage": "https://registry.modelcontextprotocol.io",
             "id": 902629770,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-24T03:00:04Z",
+            "open_issues": 6,
             "owner": "w0h1v",
             "repo": "mcp-virustotal",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "ai-tools",
+              "claude",
+              "cybersecurity",
+              "ioc",
+              "malware-analysis",
+              "malware-detection",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "security",
+              "threat-intelligence",
+              "typescript",
+              "virus-scanning",
+              "virustotal"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -590,12 +978,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 961137130,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-02-04T20:08:59Z",
+            "open_issues": 2,
             "owner": "mobilehackinglab",
             "repo": "jadx-mcp-plugin",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -606,12 +999,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vibe Malware Triage - MCP server for static PE analysis.",
+            "homepage": null,
             "id": 985391624,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-01T05:21:33Z",
+            "open_issues": 0,
             "owner": "eversinc33",
             "repo": "TriageMCP",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -622,12 +1020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude MCP server to perform analysis on ROADrecon data",
+            "homepage": null,
             "id": 956870410,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-30T05:26:46Z",
+            "open_issues": 1,
             "owner": "atomicchonk",
             "repo": "roadrecon_mcp_server",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -638,12 +1041,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.",
+            "homepage": null,
             "id": 905970538,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-03T06:57:46Z",
+            "open_issues": 7,
             "owner": "w0h1v",
             "repo": "mcp-dnstwist",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "dns",
+              "javascript",
+              "mcp",
+              "phishing",
+              "security",
+              "typosquatting"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -654,12 +1069,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of a Model Context Protocol (MCP) for the Nuclei scanner. This tool enables context-aware vulnerability scanning by intelligently providing models and context to the scanning engine, allowing for more efficient and targeted template execution",
+            "homepage": null,
             "id": 944585837,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-08-04T11:23:07Z",
+            "open_issues": 2,
             "owner": "addcontent",
             "repo": "nuclei-mcp",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "ai",
+              "intelligent-scanning",
+              "nuclei",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -670,12 +1095,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Another™ MCP Server for Binary Ninja with superpower 🥵",
+            "homepage": null,
             "id": 956439525,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-13T03:16:11Z",
+            "open_issues": 10,
             "owner": "MCPPhalanx",
             "repo": "binaryninja-mcp",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -686,12 +1116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The first MCP server for cybersecurity",
+            "homepage": null,
             "id": 899482347,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T15:48:59Z",
+            "open_issues": 3,
             "owner": "alexgoller",
             "repo": "illumio-mcp-server",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -702,12 +1137,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "urlDNA MCP server",
+            "homepage": "https://urldna.io",
             "id": 1006967237,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T15:58:01Z",
+            "open_issues": 0,
             "owner": "urldna",
             "repo": "mcp",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "agent",
+              "ai",
+              "genai",
+              "mcp",
+              "mcp-server",
+              "phishing-check",
+              "phishing-detection",
+              "urldna",
+              "urlscanner"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         }
@@ -724,12 +1174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 988698008,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-26T21:17:36Z",
+            "open_issues": 1,
             "owner": "raphabot",
             "repo": "awesome-cybersecurity-agentic-ai",
-            "stars": 539
+            "stars": 541,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         }
@@ -746,12 +1201,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️",
+            "homepage": null,
             "id": 962882667,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-03T20:29:51Z",
+            "open_issues": 180,
             "owner": "Puliczek",
             "repo": "awesome-mcp-security",
-            "stars": 732
+            "stars": 732,
+            "topics": [
+              "awesome-list",
+              "bugbounty",
+              "bugbountytips",
+              "cybers",
+              "exploit",
+              "mcp",
+              "mcp-client",
+              "mcp-server",
+              "mcp-servers",
+              "pentesting",
+              "poc",
+              "security",
+              "security-writeups",
+              "writeups"
+            ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         }
@@ -760,15 +1235,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:18:52.756Z",
+    "last_updated": "2026-08-29T04:38:51.398Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️",
+      "homepage": null,
       "id": 962882667,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-03T20:29:51Z",
+      "open_issues": 180,
       "owner": "Puliczek",
       "repo": "awesome-mcp-security",
-      "stars": 732
+      "stars": 732,
+      "topics": [
+        "awesome-list",
+        "bugbounty",
+        "bugbountytips",
+        "cybers",
+        "exploit",
+        "mcp",
+        "mcp-client",
+        "mcp-server",
+        "mcp-servers",
+        "pentesting",
+        "poc",
+        "security",
+        "security-writeups",
+        "writeups"
+      ]
     },
     "original_repository_sha": "e49700a1732182af8ba915808f816d4eff48bf36",
     "enhanced_repository": "enhansome/enhansome-mcp-security",
