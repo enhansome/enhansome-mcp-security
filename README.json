@@ -15,11 +15,11 @@
             "id": 862570523,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T05:43:14Z",
-            "open_issues": 142,
+            "last_commit": "2026-09-03T00:29:43Z",
+            "open_issues": 139,
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 9112,
+            "stars": 9123,
             "topics": [
               "docs",
               "mcp",
@@ -45,7 +45,7 @@
             "open_issues": 9,
             "owner": "slowmist",
             "repo": "MCP-Security-Checklist",
-            "stars": 836,
+            "stars": 835,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -68,11 +68,11 @@
             "id": 908108028,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T02:09:49Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-03T12:12:06Z",
+            "open_issues": 33,
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 6115,
+            "stars": 6126,
             "topics": [
               "agent",
               "agent-security",
@@ -110,11 +110,11 @@
             "id": 962024783,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T13:04:16Z",
+            "last_commit": "2026-09-03T12:45:28Z",
             "open_issues": 11,
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2997,
+            "stars": 3002,
             "topics": [
               "agent",
               "ai",
@@ -137,11 +137,11 @@
             "id": 947349598,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T14:17:24Z",
+            "last_commit": "2026-09-03T14:16:47Z",
             "open_issues": 380,
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2066,
+            "stars": 2068,
             "topics": [
               "ai",
               "ai-security",
@@ -237,7 +237,7 @@
             "open_issues": 9,
             "owner": "slowmist",
             "repo": "MCP-Security-Checklist",
-            "stars": 836,
+            "stars": 835,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -579,7 +579,7 @@
             "open_issues": 0,
             "owner": "82ch",
             "repo": "MCP-Dandan",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "ai-security",
               "ai-security-tool",
@@ -689,7 +689,7 @@
             "open_issues": 45,
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 11776,
+            "stars": 11805,
             "topics": [
               "ai",
               "aiagent",
@@ -720,7 +720,7 @@
             "open_issues": 82,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9920,
+            "stars": 9937,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -791,11 +791,11 @@
             "id": 163722349,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T14:23:27Z",
-            "open_issues": 162,
+            "last_commit": "2026-09-03T14:20:38Z",
+            "open_issues": 148,
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 4987,
+            "stars": 4988,
             "topics": [
               "aigateway",
               "beyondcorp",
@@ -828,7 +828,7 @@
             "open_issues": 53,
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1125,
+            "stars": 1130,
             "topics": [
               "extension"
             ]
@@ -928,10 +928,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-03-31T18:08:46Z",
-            "open_issues": 5,
+            "open_issues": 7,
             "owner": "w0h1v",
             "repo": "mcp-shodan",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "ai-tools",
               "claude",
@@ -1143,7 +1143,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-26T15:48:59Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "alexgoller",
             "repo": "illumio-mcp-server",
             "stars": 12,
@@ -1201,10 +1201,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-08-26T21:17:36Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "raphabot",
             "repo": "awesome-cybersecurity-agentic-ai",
-            "stars": 578,
+            "stars": 581,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -1231,7 +1231,7 @@
             "open_issues": 190,
             "owner": "Puliczek",
             "repo": "awesome-mcp-security",
-            "stars": 732,
+            "stars": 733,
             "topics": [
               "awesome-list",
               "bugbounty",
@@ -1256,7 +1256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:55:57.088Z",
+    "last_updated": "2026-09-03T14:51:07.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️",
@@ -1268,7 +1268,7 @@
       "open_issues": 190,
       "owner": "Puliczek",
       "repo": "awesome-mcp-security",
-      "stars": 732,
+      "stars": 733,
       "topics": [
         "awesome-list",
         "bugbounty",
