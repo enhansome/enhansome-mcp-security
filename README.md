@@ -23,7 +23,7 @@ Everything you need to know about Model Context Protocol (MCP) security.
 Official Security Considerations from the [Official MCP Specification Rev: 2025-03-26](https://modelcontextprotocol.io/specification/2025-03-26/server/tools)
 
 > \[!NOTE]
-> 15.04.2025: The current MCP [auth specification](https://modelcontextprotocol.io/specification/2025-03-26/basic/authorization) is in progress of being replaced by a more [robust specification](https://github.com/modelcontextprotocol/specification/pull/284) ⭐ 9,193 | 🐛 147 | 🌐 TypeScript | 📅 2026-09-11. Please join the conversation if you have concerns around the current auth specification.
+> 15.04.2025: The current MCP [auth specification](https://modelcontextprotocol.io/specification/2025-03-26/basic/authorization) is in progress of being replaced by a more [robust specification](https://github.com/modelcontextprotocol/specification/pull/284) ⭐ 9,196 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-13. Please join the conversation if you have concerns around the current auth specification.
 
 * Servers **MUST**:
   * Validate all tool inputs
@@ -76,7 +76,7 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
 
 ## 📕 Articles, X threads and Blog Posts
 
-* (07.04.2025) [(RFC) Update the Authorization specification for MCP servers #284 by localden](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/284) ⭐ 9,193 | 🐛 147 | 🌐 TypeScript | 📅 2026-09-11
+* (07.04.2025) [(RFC) Update the Authorization specification for MCP servers #284 by localden](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/284) ⭐ 9,196 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-13
 * (14.04.2025) [MCP Security Checklist: A Security Guide for the AI Tool Ecosystem by slowmist](https://github.com/slowmist/MCP-Security-Checklist) ⭐ 836 | 🐛 9 | 📅 2025-04-28
 * (14.08.2025) [MCP Security Best Practices: How to Prevent Risks and Threats by Dmitriy Redkin](https://mcpmanager.ai/blog/mcp-security-best-practices/)
 * (08.08.2025) [we hijacked cursor via jira mcp by submitting a support ticket by @mbrg0](https://x.com/mbrg0/status/1953932780855013682)
@@ -130,11 +130,11 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
 
 ## 🧑‍🚀 Tools and code
 
-* [AI-Infra-Guard by Tencent Zhuque Lab](https://github.com/Tencent/AI-Infra-Guard) ⭐ 6,242 | 🐛 34 | 🌐 Python | 📅 2026-09-11 - MCP Server Security Analysis Tool - a comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment.
+* [AI-Infra-Guard by Tencent Zhuque Lab](https://github.com/Tencent/AI-Infra-Guard) ⭐ 6,255 | 🐛 34 | 🌐 Python | 📅 2026-09-11 - MCP Server Security Analysis Tool - a comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment.
 * [mcp-scan by invariantlabs-ai](https://github.com/invariantlabs-ai/mcp-scan) ⭐ 3,034 | 🐛 16 | 🌐 Python | 📅 2026-09-11
-* [ToolHive - making MCP servers easy and secure by StacklokLabs](https://github.com/StacklokLabs/toolhive) ⭐ 2,161 | 🐛 370 | 🌐 Go | 📅 2026-09-11
+* [ToolHive - making MCP servers easy and secure by StacklokLabs](https://github.com/StacklokLabs/toolhive) ⭐ 2,163 | 🐛 371 | 🌐 Go | 📅 2026-09-11
 * [Damn Vulnerable MCP Server by harishsg993010](https://github.com/harishsg993010/damn-vulnerable-MCP-server) ⭐ 1,345 | 🐛 24 | 🌐 Python | 📅 2025-12-08
-* [Octocode](https://github.com/bgauryy/octocode-mcp) ⭐ 932 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-11 - AI-powered developer assistant that enables advanced research, analysis and discovery across GitHub ecosystem. Allow smart search of security patterns across repositories.
+* [Octocode](https://github.com/bgauryy/octocode-mcp) ⭐ 933 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-11 - AI-powered developer assistant that enables advanced research, analysis and discovery across GitHub ecosystem. Allow smart search of security patterns across repositories.
 * [MCP Security Checklist: A Security Guide for the AI Tool Ecosystem by SlowMist](https://github.com/slowmist/MCP-Security-Checklist) ⭐ 836 | 🐛 9 | 📅 2025-04-28
 * [workers-mcp - Connect Cloudflare Workers with your MCP clients by Cloudflare](https://github.com/cloudflare/workers-mcp) ⭐ 647 | 🐛 23 | 🌐 TypeScript | 📅 2026-04-23
 * [MCP-Shield – Detect security issues in MCP servers by riseandignite](https://github.com/riseandignite/mcp-shield) ⭐ 555 | 🐛 8 | 🌐 TypeScript | 📅 2025-04-26
@@ -158,17 +158,17 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
 
 ## 💾 MCP Security Servers
 
-* [IDA-Pro-MCP by mrexodia](https://github.com/mrexodia/ida-pro-mcp) ⭐ 11,988 | 🐛 46 | 🌐 Python | 📅 2026-08-28 - MCP server for reverse engineering in IDA Pro, a tool for analyzing software and binary files.
-* [GhidraMCP by LaurieWired](https://github.com/LaurieWired/GhidraMCP) ⭐ 10,006 | 🐛 84 | 🌐 Java | 📅 2025-06-23 - MCP server for automatic reverse engineering in Ghidra, a software reverse engineering platform.
-* [pomerium/pomerium](https://github.com/pomerium/pomerium) ⭐ 5,004 | 🐛 153 | 🌐 Go | 📅 2026-09-12 - Identity-aware proxy with native support for Zero Trust access, now including MCP support.
+* [IDA-Pro-MCP by mrexodia](https://github.com/mrexodia/ida-pro-mcp) ⭐ 11,996 | 🐛 45 | 🌐 Python | 📅 2026-08-28 - MCP server for reverse engineering in IDA Pro, a tool for analyzing software and binary files.
+* [GhidraMCP by LaurieWired](https://github.com/LaurieWired/GhidraMCP) ⭐ 10,014 | 🐛 84 | 🌐 Java | 📅 2025-06-23 - MCP server for automatic reverse engineering in Ghidra, a software reverse engineering platform.
+* [pomerium/pomerium](https://github.com/pomerium/pomerium) ⭐ 5,004 | 🐛 154 | 🌐 Go | 📅 2026-09-12 - Identity-aware proxy with native support for Zero Trust access, now including MCP support.
   * Example implementations:
     * [pomerium/mcp-app-demo](https://github.com/pomerium/mcp-app-demo) ⭐ 51 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-06
     * [pomerium/mcp-servers](https://github.com/pomerium/mcp-servers) ⭐ 8 | 🐛 2 | 🌐 Go | 📅 2026-07-13
-* [Burp Suite MCP by PortSwigger](https://github.com/PortSwigger/mcp-server) ⭐ 1,154 | 🐛 54 | 🌐 Kotlin | 📅 2026-08-28 - MCP integration for web security testing in Burp Suite, a security testing tool for web applications.
+* [Burp Suite MCP by PortSwigger](https://github.com/PortSwigger/mcp-server) ⭐ 1,156 | 🐛 54 | 🌐 Kotlin | 📅 2026-08-28 - MCP integration for web security testing in Burp Suite, a security testing tool for web applications.
 * [Semgrep MCP Server](https://github.com/semgrep/mcp) ⚠️ Archived - MCP server for using Semgrep to scan code for vulnerabilities
 * [BloodHound-MCP-AI by MorDavid](https://github.com/MorDavid/BloodHound-MCP-AI) ⭐ 374 | 🐛 0 | 🌐 Python | 📅 2025-06-02 - MCP server integration for BloodHound, a tool for analyzing Active Directory domains.
-* [Maigret MCP Server by BurtTheCoder](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 262 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-27 - MCP server for OSINT data collection with Maigret, a tool that gathers user info from various sources.
-* [Shodan MCP Server by BurtTheCoder](https://github.com/BurtTheCoder/mcp-shodan) ⭐ 168 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-08 - MCP server for querying the Shodan API, which provides data on Internet-connected devices.
+* [Maigret MCP Server by BurtTheCoder](https://github.com/BurtTheCoder/mcp-maigret) ⭐ 263 | 🐛 6 | 🌐 JavaScript | 📅 2026-01-27 - MCP server for OSINT data collection with Maigret, a tool that gathers user info from various sources.
+* [Shodan MCP Server by BurtTheCoder](https://github.com/BurtTheCoder/mcp-shodan) ⭐ 170 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-08 - MCP server for querying the Shodan API, which provides data on Internet-connected devices.
 * [VirusTotal MCP Server by BurtTheCoder](https://github.com/BurtTheCoder/mcp-virustotal) ⭐ 149 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-08 - MCP server for querying the VirusTotal API, a service for analyzing files and URLs for viruses.
 * [Jadx MCP Plugin by mobilehackinglab](https://github.com/mobilehackinglab/jadx-mcp-plugin) ⭐ 104 | 🐛 2 | 🌐 Java | 📅 2026-02-04 - Jadx plugin for MCP server access via HTTP, used for decompiling Android apps.
 * [TriageMCP by eversinc33](https://github.com/eversinc33/TriageMCP) ⚠️ Archived - MCP server for doing basic static triage of Portable Executable (PE) files
@@ -182,7 +182,7 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
 
 ## 💻 Other Useful Resources
 
-* [Awesome Cybersecurity Agentic AI](https://github.com/raphabot/awesome-cybersecurity-agentic-ai) ⭐ 590 | 🐛 3 | 🌐 Shell | 📅 2026-09-08 - Collection of resources on using AI agents for security use cases
+* [Awesome Cybersecurity Agentic AI](https://github.com/raphabot/awesome-cybersecurity-agentic-ai) ⭐ 589 | 🐛 4 | 🌐 Shell | 📅 2026-09-08 - Collection of resources on using AI agents for security use cases
 * (31.03.2025) [I gave Claude root access to my server... Model Context Protocol explained by Fireship](https://www.youtube.com/watch?v=HyzlYwjoXOQ)
 * (17.03.2025) [Model Context Protocol (MCP): The Key To Agentic AI by Jack Herrington](https://www.youtube.com/watch?v=VChRPFUzJGA)
 * [Official MCP Specification](https://modelcontextprotocol.io/specification/2025-03-26/server/tools)
@@ -192,7 +192,7 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
 
 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 
-[Please read and follow our contributing guide](https://github.com/Puliczek/awesome-mcp-security/blob/main/CONTRIBUTING.md) ⭐ 734 | 🐛 203 | 📅 2026-03-03
+[Please read and follow our contributing guide](https://github.com/Puliczek/awesome-mcp-security/blob/main/CONTRIBUTING.md) ⭐ 734 | 🐛 204 | 📅 2026-03-03
 
 Thanks! 🦄
 
@@ -206,4 +206,4 @@ This project can only be used for educational purposes. Using this resource agai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
