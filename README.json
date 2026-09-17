@@ -19,7 +19,7 @@
             "open_issues": 149,
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 9228,
+            "stars": 9237,
             "topics": [
               "docs",
               "mcp",
@@ -45,7 +45,7 @@
             "open_issues": 9,
             "owner": "slowmist",
             "repo": "MCP-Security-Checklist",
-            "stars": 836,
+            "stars": 835,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -68,11 +68,11 @@
             "id": 908108028,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T09:08:06Z",
+            "last_commit": "2026-09-17T08:35:34Z",
             "open_issues": 34,
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 6392,
+            "stars": 6409,
             "topics": [
               "agent",
               "agent-security",
@@ -110,11 +110,11 @@
             "id": 962024783,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T15:01:27Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-17T14:59:22Z",
+            "open_issues": 14,
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 3054,
+            "stars": 3059,
             "topics": [
               "agent",
               "ai",
@@ -137,11 +137,11 @@
             "id": 947349598,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T14:22:53Z",
-            "open_issues": 364,
+            "last_commit": "2026-09-17T15:14:34Z",
+            "open_issues": 368,
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2181,
+            "stars": 2186,
             "topics": [
               "ai",
               "ai-security",
@@ -191,11 +191,11 @@
             "id": 996813130,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T07:46:31Z",
+            "last_commit": "2026-09-17T13:19:09Z",
             "open_issues": 5,
             "owner": "bgauryy",
             "repo": "octocode",
-            "stars": 936,
+            "stars": 938,
             "topics": [
               "agent",
               "ai",
@@ -237,7 +237,7 @@
             "open_issues": 9,
             "owner": "slowmist",
             "repo": "MCP-Security-Checklist",
-            "stars": 836,
+            "stars": 835,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -407,7 +407,7 @@
             "open_issues": 14,
             "owner": "trailofbits",
             "repo": "mcp-context-protector",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -689,7 +689,7 @@
             "open_issues": 45,
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 12088,
+            "stars": 12108,
             "topics": [
               "ai",
               "aiagent",
@@ -720,7 +720,7 @@
             "open_issues": 85,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 10069,
+            "stars": 10094,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -791,11 +791,11 @@
             "id": 163722349,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T15:14:00Z",
-            "open_issues": 155,
+            "last_commit": "2026-09-17T14:57:12Z",
+            "open_issues": 154,
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 5006,
+            "stars": 5008,
             "topics": [
               "aigateway",
               "beyondcorp",
@@ -828,7 +828,7 @@
             "open_issues": 55,
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1166,
+            "stars": 1169,
             "topics": [
               "extension"
             ]
@@ -851,7 +851,7 @@
             "open_issues": 28,
             "owner": "semgrep",
             "repo": "mcp",
-            "stars": 686,
+            "stars": 687,
             "topics": [
               "mcp",
               "semgrep"
@@ -1085,27 +1085,6 @@
         },
         {
           "node_type": "item",
-          "title": "binaryninja-mcp by MCPPhalanx",
-          "description": "MCP server for Binary Ninja, a binary analysis tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Another™ MCP Server for Binary Ninja with superpower 🥵",
-            "homepage": null,
-            "id": 956439525,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-05-13T03:16:11Z",
-            "open_issues": 10,
-            "owner": "MCPPhalanx",
-            "repo": "binaryninja-mcp",
-            "stars": 49,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:18:52.756Z"
-        },
-        {
-          "node_type": "item",
           "title": "Nuclei MCP Integration by addcontent",
           "description": "Provides a standardized MCP interface for Nuclei, a fast and customizable vulnerabilty scanner, for performing scans and managing vulnerablity assessments",
           "children": [],
@@ -1120,13 +1099,34 @@
             "open_issues": 2,
             "owner": "addcontent",
             "repo": "nuclei-mcp",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "ai",
               "intelligent-scanning",
               "nuclei",
               "vulnerability-scanners"
             ]
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
+        },
+        {
+          "node_type": "item",
+          "title": "binaryninja-mcp by MCPPhalanx",
+          "description": "MCP server for Binary Ninja, a binary analysis tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Another™ MCP Server for Binary Ninja with superpower 🥵",
+            "homepage": null,
+            "id": 956439525,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-05-13T03:16:11Z",
+            "open_issues": 10,
+            "owner": "MCPPhalanx",
+            "repo": "binaryninja-mcp",
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
         },
@@ -1142,8 +1142,8 @@
             "id": 899482347,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T09:45:30Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-16T20:37:36Z",
+            "open_issues": 4,
             "owner": "alexgoller",
             "repo": "illumio-mcp-server",
             "stars": 12,
@@ -1256,7 +1256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:19:00.231Z",
+    "last_updated": "2026-09-17T15:24:57.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️",
