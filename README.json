@@ -19,7 +19,7 @@
             "open_issues": 114,
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 9367,
+            "stars": 9370,
             "topics": [
               "docs",
               "mcp",
@@ -68,11 +68,11 @@
             "id": 908108028,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T02:44:20Z",
-            "open_issues": 44,
+            "last_commit": "2026-10-03T13:39:07Z",
+            "open_issues": 40,
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 6711,
+            "stars": 6722,
             "topics": [
               "agent",
               "agent-security",
@@ -141,7 +141,7 @@
             "open_issues": 384,
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2231,
+            "stars": 2233,
             "topics": [
               "ai",
               "ai-security",
@@ -342,7 +342,7 @@
             "open_issues": 18,
             "owner": "lasso-security",
             "repo": "mcp-gateway",
-            "stars": 390,
+            "stars": 391,
             "topics": [
               "agent",
               "agent-security",
@@ -689,7 +689,7 @@
             "open_issues": 51,
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 12446,
+            "stars": 12454,
             "topics": [
               "ai",
               "aiagent",
@@ -720,7 +720,7 @@
             "open_issues": 83,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 10252,
+            "stars": 10254,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -828,7 +828,7 @@
             "open_issues": 58,
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1206,
+            "stars": 1207,
             "topics": [
               "extension"
             ]
@@ -1214,7 +1214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:59:35.268Z",
+    "last_updated": "2026-10-03T15:02:16.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️",
@@ -1223,7 +1223,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-03-03T20:29:51Z",
-      "open_issues": 224,
+      "open_issues": 226,
       "owner": "Puliczek",
       "repo": "awesome-mcp-security",
       "stars": 741,
