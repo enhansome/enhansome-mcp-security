@@ -15,11 +15,11 @@
             "id": 862570523,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T19:58:15Z",
-            "open_issues": 116,
+            "last_commit": "2026-10-18T07:07:43Z",
+            "open_issues": 114,
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 9463,
+            "stars": 9471,
             "topics": [
               "docs",
               "mcp",
@@ -72,7 +72,7 @@
             "open_issues": 29,
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 6892,
+            "stars": 6900,
             "topics": [
               "agent",
               "agent-security",
@@ -114,7 +114,7 @@
             "open_issues": 21,
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 3142,
+            "stars": 3147,
             "topics": [
               "agent",
               "ai",
@@ -137,11 +137,11 @@
             "id": 947349598,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T05:57:52Z",
+            "last_commit": "2026-10-17T21:54:53Z",
             "open_issues": 395,
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2291,
+            "stars": 2293,
             "topics": [
               "ai",
               "ai-security",
@@ -428,7 +428,7 @@
             "open_issues": 2,
             "owner": "invariantlabs-ai",
             "repo": "mcp-injection-experiments",
-            "stars": 207,
+            "stars": 208,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -449,7 +449,7 @@
             "open_issues": 2,
             "owner": "invariantlabs-ai",
             "repo": "mcp-injection-experiments",
-            "stars": 207,
+            "stars": 208,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -689,7 +689,7 @@
             "open_issues": 57,
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 12977,
+            "stars": 12994,
             "topics": [
               "ai",
               "aiagent",
@@ -717,10 +717,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T20:08:37Z",
-            "open_issues": 89,
+            "open_issues": 92,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 11340,
+            "stars": 11378,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -828,7 +828,7 @@
             "open_issues": 63,
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 1238,
+            "stars": 1240,
             "topics": [
               "extension"
             ]
@@ -851,7 +851,7 @@
             "open_issues": 28,
             "owner": "semgrep",
             "repo": "mcp",
-            "stars": 686,
+            "stars": 685,
             "topics": [
               "mcp",
               "semgrep"
@@ -1206,7 +1206,7 @@
             "id": 988698008,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-16T21:06:04Z",
+            "last_commit": "2026-10-18T07:01:52Z",
             "open_issues": 4,
             "owner": "raphabot",
             "repo": "awesome-cybersecurity-agentic-ai",
@@ -1220,7 +1220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T14:02:39.965Z",
+    "last_updated": "2026-10-18T14:15:55.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️",
@@ -1229,7 +1229,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-03-03T20:29:51Z",
-      "open_issues": 247,
+      "open_issues": 249,
       "owner": "Puliczek",
       "repo": "awesome-mcp-security",
       "stars": 743,
