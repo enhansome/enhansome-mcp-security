@@ -15,11 +15,11 @@
             "id": 862570523,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T17:08:28Z",
-            "open_issues": 129,
+            "last_commit": "2026-11-18T19:04:02Z",
+            "open_issues": 126,
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 9713,
+            "stars": 9717,
             "topics": [
               "docs",
               "mcp",
@@ -68,11 +68,11 @@
             "id": 908108028,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T03:12:18Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-18T03:12:04Z",
+            "open_issues": 27,
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 7535,
+            "stars": 7547,
             "topics": [
               "agent",
               "agent-security",
@@ -110,11 +110,11 @@
             "id": 962024783,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T15:18:16Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-18T17:10:46Z",
+            "open_issues": 30,
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 3250,
+            "stars": 3256,
             "topics": [
               "agent",
               "ai",
@@ -137,11 +137,11 @@
             "id": 947349598,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T14:34:55Z",
-            "open_issues": 426,
+            "last_commit": "2026-11-18T15:37:18Z",
+            "open_issues": 421,
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2342,
+            "stars": 2343,
             "topics": [
               "ai",
               "ai-security",
@@ -258,7 +258,7 @@
             "open_issues": 23,
             "owner": "cloudflare",
             "repo": "workers-mcp",
-            "stars": 648,
+            "stars": 649,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -377,7 +377,7 @@
             "open_issues": 5,
             "owner": "MCP-Defender",
             "repo": "MCP-Defender",
-            "stars": 255,
+            "stars": 254,
             "topics": [
               "ai-tools",
               "mcp",
@@ -553,7 +553,7 @@
             "open_issues": 1,
             "owner": "groovyBugify",
             "repo": "aws-security-mcp",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "aws",
               "cloud-security",
@@ -689,7 +689,7 @@
             "open_issues": 59,
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 13501,
+            "stars": 13517,
             "topics": [
               "ai",
               "aiagent",
@@ -720,7 +720,7 @@
             "open_issues": 96,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 11959,
+            "stars": 11972,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -791,11 +791,11 @@
             "id": 163722349,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T19:31:26Z",
-            "open_issues": 174,
+            "last_commit": "2026-11-18T18:52:53Z",
+            "open_issues": 167,
             "owner": "pomerium",
             "repo": "pomerium",
-            "stars": 5111,
+            "stars": 5114,
             "topics": [
               "aigateway",
               "beyondcorp",
@@ -1061,6 +1061,32 @@
         },
         {
           "node_type": "item",
+          "title": "Nuclei MCP Integration by addcontent",
+          "description": "Provides a standardized MCP interface for Nuclei, a fast and customizable vulnerabilty scanner, for performing scans and managing vulnerablity assessments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An implementation of a Model Context Protocol (MCP) for the Nuclei scanner. This tool enables context-aware vulnerability scanning by intelligently providing models and context to the scanning engine, allowing for more efficient and targeted template execution",
+            "homepage": null,
+            "id": 944585837,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2025-08-04T11:23:07Z",
+            "open_issues": 5,
+            "owner": "addcontent",
+            "repo": "nuclei-mcp",
+            "stars": 51,
+            "topics": [
+              "ai",
+              "intelligent-scanning",
+              "nuclei",
+              "vulnerability-scanners"
+            ]
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
+        },
+        {
+          "node_type": "item",
           "title": "DNStwist MCP Server by BurtTheCoder",
           "description": "MCP server for DNS fuzzing with dnstwist, a tool for detecting phishing and domain takeover threats.",
           "children": [],
@@ -1083,32 +1109,6 @@
               "phishing",
               "security",
               "typosquatting"
-            ]
-          },
-          "first_seen": "2026-08-28T21:18:52.756Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Nuclei MCP Integration by addcontent",
-          "description": "Provides a standardized MCP interface for Nuclei, a fast and customizable vulnerabilty scanner, for performing scans and managing vulnerablity assessments",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An implementation of a Model Context Protocol (MCP) for the Nuclei scanner. This tool enables context-aware vulnerability scanning by intelligently providing models and context to the scanning engine, allowing for more efficient and targeted template execution",
-            "homepage": null,
-            "id": 944585837,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2025-08-04T11:23:07Z",
-            "open_issues": 5,
-            "owner": "addcontent",
-            "repo": "nuclei-mcp",
-            "stars": 50,
-            "topics": [
-              "ai",
-              "intelligent-scanning",
-              "nuclei",
-              "vulnerability-scanners"
             ]
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -1150,7 +1150,7 @@
             "open_issues": 0,
             "owner": "PortSwigger",
             "repo": "mcp-server",
-            "stars": 11,
+            "stars": 13,
             "topics": [
               "extension"
             ]
@@ -1206,8 +1206,8 @@
             "id": 988698008,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-17T08:03:55Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-18T10:15:15Z",
+            "open_issues": 9,
             "owner": "raphabot",
             "repo": "awesome-cybersecurity-agentic-ai",
             "stars": 610,
@@ -1220,7 +1220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:33:33.508Z",
+    "last_updated": "2026-11-18T19:13:39.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️",
@@ -1229,10 +1229,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-03-03T20:29:51Z",
-      "open_issues": 312,
+      "open_issues": 314,
       "owner": "Puliczek",
       "repo": "awesome-mcp-security",
-      "stars": 748,
+      "stars": 750,
       "topics": [
         "awesome-list",
         "bugbounty",
