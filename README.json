@@ -15,11 +15,11 @@
             "id": 862570523,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T19:04:02Z",
-            "open_issues": 126,
+            "last_commit": "2026-11-19T16:39:32Z",
+            "open_issues": 123,
             "owner": "modelcontextprotocol",
             "repo": "modelcontextprotocol",
-            "stars": 9717,
+            "stars": 9725,
             "topics": [
               "docs",
               "mcp",
@@ -68,11 +68,11 @@
             "id": 908108028,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T03:12:04Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-19T04:02:44Z",
+            "open_issues": 28,
             "owner": "Tencent",
             "repo": "AI-Infra-Guard",
-            "stars": 7547,
+            "stars": 7577,
             "topics": [
               "agent",
               "agent-security",
@@ -110,11 +110,11 @@
             "id": 962024783,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T17:10:46Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-19T13:52:09Z",
+            "open_issues": 22,
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 3256,
+            "stars": 3260,
             "topics": [
               "agent",
               "ai",
@@ -137,8 +137,8 @@
             "id": 947349598,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T15:37:18Z",
-            "open_issues": 421,
+            "last_commit": "2026-11-19T19:08:39Z",
+            "open_issues": 433,
             "owner": "stacklok",
             "repo": "toolhive",
             "stars": 2343,
@@ -174,7 +174,7 @@
             "open_issues": 23,
             "owner": "harishsg993010",
             "repo": "damn-vulnerable-MCP-server",
-            "stars": 1374,
+            "stars": 1375,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -195,7 +195,7 @@
             "open_issues": 14,
             "owner": "bgauryy",
             "repo": "octocode",
-            "stars": 967,
+            "stars": 966,
             "topics": [
               "agent",
               "ai",
@@ -296,7 +296,7 @@
             "id": 959334960,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T04:37:13Z",
+            "last_commit": "2026-11-19T18:24:43Z",
             "open_issues": 55,
             "owner": "google",
             "repo": "mcp-security",
@@ -686,10 +686,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-12T11:01:58Z",
-            "open_issues": 59,
+            "open_issues": 58,
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 13517,
+            "stars": 13528,
             "topics": [
               "ai",
               "aiagent",
@@ -720,7 +720,7 @@
             "open_issues": 96,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 11972,
+            "stars": 11984,
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
@@ -791,8 +791,8 @@
             "id": 163722349,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T18:52:53Z",
-            "open_issues": 167,
+            "last_commit": "2026-11-19T18:16:11Z",
+            "open_issues": 173,
             "owner": "pomerium",
             "repo": "pomerium",
             "stars": 5114,
@@ -828,7 +828,7 @@
             "open_issues": 28,
             "owner": "semgrep",
             "repo": "mcp",
-            "stars": 689,
+            "stars": 688,
             "topics": [
               "mcp",
               "semgrep"
@@ -852,7 +852,7 @@
             "open_issues": 0,
             "owner": "MorDavid",
             "repo": "BloodHound-MCP-AI",
-            "stars": 385,
+            "stars": 384,
             "topics": [
               "ai",
               "bloodhound",
@@ -880,7 +880,7 @@
             "open_issues": 0,
             "owner": "w0h1v",
             "repo": "mcp-maigret",
-            "stars": 273,
+            "stars": 274,
             "topics": [
               "ai-agents",
               "claude",
@@ -1019,27 +1019,6 @@
         },
         {
           "node_type": "item",
-          "title": "RoadRecon MCP by atomicchonk",
-          "description": "MCP server for Azure AD data analysis with ROADRecon, a tool for mapping Azure Active Directory environments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Claude MCP server to perform analysis on ROADrecon data",
-            "homepage": null,
-            "id": 956870410,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-03-30T05:26:46Z",
-            "open_issues": 2,
-            "owner": "atomicchonk",
-            "repo": "roadrecon_mcp_server",
-            "stars": 53,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:18:52.756Z"
-        },
-        {
-          "node_type": "item",
           "title": "binaryninja-mcp by MCPPhalanx",
           "description": "MCP server for Binary Ninja, a binary analysis tool.",
           "children": [],
@@ -1054,6 +1033,27 @@
             "open_issues": 10,
             "owner": "MCPPhalanx",
             "repo": "binaryninja-mcp",
+            "stars": 52,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:18:52.756Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RoadRecon MCP by atomicchonk",
+          "description": "MCP server for Azure AD data analysis with ROADRecon, a tool for mapping Azure Active Directory environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Claude MCP server to perform analysis on ROADrecon data",
+            "homepage": null,
+            "id": 956870410,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-03-30T05:26:46Z",
+            "open_issues": 2,
+            "owner": "atomicchonk",
+            "repo": "roadrecon_mcp_server",
             "stars": 52,
             "topics": []
           },
@@ -1115,6 +1115,29 @@
         },
         {
           "node_type": "item",
+          "title": "Burp Suite MCP by PortSwigger",
+          "description": "MCP integration for web security testing in Burp Suite, a security testing tool for web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP Server for Burp",
+            "homepage": null,
+            "id": 1444164223,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-05T16:44:33Z",
+            "open_issues": 0,
+            "owner": "PortSwigger",
+            "repo": "mcp-server",
+            "stars": 15,
+            "topics": [
+              "extension"
+            ]
+          },
+          "first_seen": "2026-11-03T18:13:01.807Z"
+        },
+        {
+          "node_type": "item",
           "title": "Illumio MCP Server by alexgoller",
           "description": "MCP server for interacting with Illumio Policy Compute Engine for Illumio workload management, label operations, traffic flow analysis",
           "children": [],
@@ -1133,29 +1156,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:18:52.756Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Burp Suite MCP by PortSwigger",
-          "description": "MCP integration for web security testing in Burp Suite, a security testing tool for web applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "MCP Server for Burp",
-            "homepage": null,
-            "id": 1444164223,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-05T16:44:33Z",
-            "open_issues": 0,
-            "owner": "PortSwigger",
-            "repo": "mcp-server",
-            "stars": 13,
-            "topics": [
-              "extension"
-            ]
-          },
-          "first_seen": "2026-11-03T18:13:01.807Z"
         },
         {
           "node_type": "item",
@@ -1220,7 +1220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T19:13:39.922Z",
+    "last_updated": "2026-11-19T19:19:23.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️",
@@ -1229,7 +1229,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-03-03T20:29:51Z",
-      "open_issues": 314,
+      "open_issues": 316,
       "owner": "Puliczek",
       "repo": "awesome-mcp-security",
       "stars": 750,
